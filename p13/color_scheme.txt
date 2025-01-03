@@ -2,13 +2,21 @@
   CustomTheme: {
     PrimaryColor: RGBA(246, 246, 250, 1),
     PrimaryColor_Text: RGBA(246, 246, 250, 1),
+
     SecondaryColor: RGBA(0, 142, 210, 1),
     SecondaryColor_Text: RGBA(0, 142, 210, 1),
+
     TertiaryColor: RGBA(0, 117, 153, 1),
     TertiaryColor_Text: RGBA(0, 117, 153, 1),
+
     PrimaryTextColor: RGBA(35, 36, 47, 1),
+
     SecondaryTextColor: RGBA(131, 141, 157, 1),
+    SecondaryTextColor_Text: "RGBA(131, 141, 157, 1)",
+
     TertiaryTextColor: RGBA(246, 246, 250, 1),
+    TertiaryTextColor_Text: "RGBA(246, 246, 250, 1)",
+
     BordersColor: RGBA(131, 141, 157, 1),
     HighlightColor: RGBA(237, 246, 249, 1),
     varHoverFill: RGBA(0, 0, 0, 0.1),
