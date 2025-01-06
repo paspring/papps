@@ -1,0 +1,25 @@
+{
+  CustomTheme: {
+    PrimaryColor: RGBA(0, 61, 165, 1),  // Novo Nordisk Blue
+    PrimaryColor_Text: "RGBA(255, 255, 255, 1)",  // White for text on primary background
+
+    SecondaryColor: RGBA(208, 226, 255, 1),  // Light Blue for secondary backgrounds
+    SecondaryColor_Text: "RGBA(0, 61, 165, 1)",  // Novo Nordisk Blue for text on secondary backgrounds
+
+    TertiaryColor: RGBA(245, 245, 245, 1),  // Light Gray for neutral sections
+    TertiaryColor_Text: "RGBA(51, 51, 51, 1)",  // Dark Gray for tertiary text
+
+    PrimaryTextColor: RGBA(51, 51, 51, 1),  // Dark Gray for body text
+
+    SecondaryTextColor: RGBA(85, 85, 85, 1),  // Gray for secondary text
+    SecondaryTextColor_Text: "RGBA(85, 85, 85, 1)",  // Same value for clarity
+
+    TertiaryTextColor: RGBA(255, 255, 255, 1),  // White for text on light tertiary backgrounds
+    TertiaryTextColor_Text: "RGBA(255, 255, 255, 1)",
+
+    BordersColor: RGBA(224, 224, 224, 1),  // Subtle border color for input fields and cards
+    HighlightColor: RGBA(237, 246, 249, 1),  // Soft blue highlight for selected elements
+    varHoverFill: RGBA(0, 61, 165, 0.1),  // Light Blue hover overlay
+    varPressedFill: RGBA(0, 61, 165, 0.2)  // Darker pressed overlay
+  }
+}
